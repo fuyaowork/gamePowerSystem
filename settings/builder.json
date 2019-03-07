@@ -28,12 +28,12 @@
     "orientation": "portrait",
     "zip": false
   },
-  "startScene": "",
+  "startScene": "3c8df119-8ec9-40ed-a634-2291aa3c1beb",
   "title": "MPSystem",
   "webOrientation": "auto",
   "wechatgame": {
     "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
+    "appid": "wxaba338a309e1fed7",
     "orientation": "portrait",
     "subContext": ""
   },
